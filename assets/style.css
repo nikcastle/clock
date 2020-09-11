@@ -1,0 +1,8 @@
+body {
+    background-color: antiquewhite;
+    background-image: url("/images/background.png"); 
+}
+
+footer {
+    position: fixed;
+}
